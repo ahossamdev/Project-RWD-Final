@@ -1,7 +1,7 @@
 # Project-RWD-Final
 
-<h1>GO for live</h1>
+<h2>GO for live</h2>
 
 <h3>
-<a gref="https://dashing-haupia-76bada.netlify.app/">https://dashing-haupia-76bada.netlify.app/</a>
+<a href="https://dashing-haupia-76bada.netlify.app/">https://dashing-haupia-76bada.netlify.app/</a>
 </h3>
